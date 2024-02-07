@@ -1,6 +1,6 @@
 #Your code goes here
 
-print("Hello World")#REMOVE PASS AND FIX THIS FUNCTION
+#REMOVE PASS AND FIX THIS FUNCTION
 def palindrome(word):
     pass
 
